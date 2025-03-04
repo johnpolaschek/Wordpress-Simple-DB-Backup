@@ -3,11 +3,9 @@ Simple database backup scheduler for WordPress
 
 Note: This plugin was developed as a simple solution for automatating scheduled backups of a wordpress database. I utilized ChatGPT to support the development.
 
-Below is a sample README.md description you can use for your GitHub repository:
-
 ---
 
-# Wordpress Simple DB Backup
+# Wordpress Simple DB Backup Description
 
 Wordpress Simple DB Backup is a lightweight and robust WordPress plugin designed to automatically backup your database. Schedule backups on an hourly, daily, weekly, or monthly basis and store them as ZIP-compressed files in your uploads directory. The plugin offers an intuitive admin interface for creating multiple backup jobs, triggering immediate backups, and managing your backup logs—all grouped by schedule type for easy organization.
 
