@@ -72,6 +72,6 @@ If you encounter any issues or have suggestions for improvements, please open an
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU GPLv3 License](LICENSE).
 
 ---
